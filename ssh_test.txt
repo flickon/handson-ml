@@ -1,1 +1,0 @@
-this text file was used to test whether the SSH key works or not
